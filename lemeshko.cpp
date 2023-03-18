@@ -9,7 +9,7 @@ int main() {
   for(int i = 1; i <= n; i++) {
     fact *= i;
   }
-  
+  //первый коммит в мою ветку
   cout << "Factorial of " << n << " is " << fact << endl;
   return 0;
 }
